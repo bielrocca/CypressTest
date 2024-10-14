@@ -1,7 +1,7 @@
 ## Clone repository
 
 ```bash
-https://github.com/bielrocca/CypressTest
+git clone https://github.com/bielrocca/CypressTest
 ```
 <br>
 
